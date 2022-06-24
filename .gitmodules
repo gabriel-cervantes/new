@@ -1,3 +1,4 @@
 [submodule "teste_template"]
 	path = teste_template
 	url = https://github.com/gabriel-cervantes/teste_template.git
+	branch = main
